@@ -5,6 +5,8 @@ Java-ChatX is a multithreaded, network-based chat application built using Java, 
 
 ✨ Features:
 
+---
+
 📝 User Registration & Login-
 
    New clients can register and create an account with a username and password.
