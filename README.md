@@ -1,9 +1,11 @@
 # Java-ChatX
 A beginner-friendly Java chat project showcasing socket programming and multi-client handling.
 
-Java-ChatX is a multithreaded, network-based chat application built using Java, Socket Programming, Swing GUI, and SQL Database. It allows multiple clients on different machines to communicate in real-time through a central server, with full support for user authentication, data security, and a friendly graphical interface.
+**Java-ChatX** is a multithreaded, network-based chat application built using Java, Socket Programming, Swing GUI, and SQL Database. It allows multiple clients on different machines to communicate in real-time through a central server, with full support for user authentication, data security, and a friendly graphical interface.
 
-✨ Features:
+---
+
+## ✨ Features:
 
 
 
