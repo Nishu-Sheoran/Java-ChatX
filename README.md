@@ -7,90 +7,98 @@ A beginner-friendly Java chat project showcasing socket programming and multi-cl
 
 ## ✨ Features:
 
+  ### 📝 User Registration & Login-
 
+     - New clients can register and create an account with a username and password.
+     - Existing users can log in using their credentials.
+     - Users can also change their password for security purposes.
 
-### 📝 User Registration & Login-
+  ### 💬 Real-Time Chat Between Multiple Users-
 
-   New clients can register and create an account with a username and password.
-   Existing users can log in using their credentials.
-   Users can also change their password for security purposes.
+     - Supports messaging between clients on different machines.
+     - Uses Socket Programming and Multithreading to handle multiple clients simultaneously.
+     - Messages are broadcasted to all connected clients in real-time.
 
-💬 Real-Time Chat Between Multiple Users-
+  ### 🌐 Networking & Server Architecture-
 
-   Supports messaging between clients on different machines.
-   Uses Socket Programming and Multithreading to handle multiple clients simultaneously.
-   Messages are broadcasted to all connected clients in real-time.
+     - Single Server Socket manages multiple clients.
+     - Each client connects via its own Client Socket using an IP address and port number.
+     - Ensures seamless communication between server and clients.
 
-🌐 Networking & Server Architecture-
+  ### 🔒 Database Integration & Security-
 
-   Single Server Socket manages multiple clients.
-   Each client connects via its own Client Socket using an IP address and port number.
-   Ensures seamless communication between server and clients.
+     - Stores user information securely using an SQL database.
+     - User data is encrypted to maintain privacy and security.
 
-🔒 Database Integration & Security-
+  ### 🖥️ Graphical User Interface (GUI)-
 
-   Stores user information securely using an SQL database.
-   User data is encrypted to maintain privacy and security.
+     - Implemented using Swing.
+     - Includes visually appealing login/register screens and chat screens.
+     - Uses event listeners to perform various actions (e.g., sending messages, updating password).
 
-🖥️ Graphical User Interface (GUI)-
+  ### ⚠️ Exception Handling-
 
-   Implemented using Swing.
-   Includes visually appealing login/register screens and chat screens.
-   Uses event listeners to perform various actions (e.g., sending messages, updating password).
+     - All critical operations are wrapped in exception handling to prevent crashes and handle errors gracefully.
 
-⚠️ Exception Handling-
+---
 
-   All critical operations are wrapped in exception handling to prevent crashes and handle errors gracefully.
+## 🛠️ Technologies Used:
 
-🛠️ Technologies Used:
+    - Java – Core language for the application logic
+    - Swing – For building GUI interfaces
+    - Socket Programming – For network communication between server and clients
+    - Multithreading – To handle multiple clients concurrently
+    - SQL Database – To store user credentials and chat information securely
+    - Encryption Techniques – For secure storage of user data
 
-  Java – Core language for the application logic
-  Swing – For building GUI interfaces
-  Socket Programming – For network communication between server and clients
-  Multithreading – To handle multiple clients concurrently
-  SQL Database – To store user credentials and chat information securely
-  Encryption Techniques – For secure storage of user data
+---
 
-🏗️ How It Works:
+## 🏗️ How It Works:
 
-  Server Setup-
+   ### Server Setup-
 
-   Start the server socket on a chosen IP and port.
-   The server listens for incoming client connections.
+     - Start the server socket on a chosen IP and port.
+     - The server listens for incoming client connections.
 
-  Client Connection-
+   ### Client Connection-
 
-   Clients connect to the server using the IP and port.
-   New users register, while existing users log in using stored credentials.
+     - Clients connect to the server using the IP and port.
+     - New users register, while existing users log in using stored credentials.
 
-  Messaging-
+   ### Messaging-
 
-   Once connected, clients can send messages that are broadcasted to all users.
-   Multithreading ensures each client can send and receive messages independently.
+     - Once connected, clients can send messages that are broadcasted to all users.
+     - Multithreading ensures each client can send and receive messages independently.
 
-  Database Interaction-
+   ### Database Interaction-
 
-   User credentials are securely stored and retrieved from the SQL database.
-   Passwords can be updated for security.
+     - User credentials are securely stored and retrieved from the SQL database.
+     - Passwords can be updated for security.
 
-🖼️ Screenshots:
+---
+
+## 🖼️ Screenshots:
+
 
    <img width="852" height="462" alt="Screenshot 2025-08-16 004629" src="https://github.com/user-attachments/assets/dbe68461-be9a-4ad1-8fd3-2290dc7784ad" />
 
+---
 
-🌟 Project Highlights:
+## 🌟 Project Highlights:
 
-   Multi-threaded network programming 💻
-   Real-time chat across multiple machines 🌐
-   Secure user authentication with SQL database 🔒
-   User-friendly GUI using Swing 🖥️
-   Exception handling for robust code ⚠️
+    - Multi-threaded network programming 💻
+    - Real-time chat across multiple machines 🌐
+    - Secure user authentication with SQL database 🔒
+    - User-friendly GUI using Swing 🖥️
+    - Exception handling for robust code ⚠️
 
-🚀 Future Enhancements:
+---
 
-   Add file sharing between clients 📁
-   Add group/private chat rooms 👥
-   Implement notification system for new messages 🔔
+## 🚀 Future Enhancements:
+
+    - Add file sharing between clients 📁
+    - Add group/private chat rooms 👥
+    - Implement notification system for new messages 🔔
    Use advanced encryption algorithms for even stronger security 🛡️
 
 
