@@ -99,6 +99,6 @@ A beginner-friendly Java chat project showcasing socket programming and multi-cl
     - Add file sharing between clients 📁
     - Add group/private chat rooms 👥
     - Implement notification system for new messages 🔔
-   Use advanced encryption algorithms for even stronger security 🛡️
+    - Use advanced encryption algorithms for even stronger security 🛡️
 
 
