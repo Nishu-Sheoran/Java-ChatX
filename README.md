@@ -44,12 +44,12 @@ A beginner-friendly Java chat project showcasing socket programming and multi-cl
 
 ## 🛠️ Technologies Used:
 
-- Java – Core language for the application logic
-- Swing – For building GUI interfaces
-- Socket Programming – For network communication between server and clients
-- Multithreading – To handle multiple clients concurrently
-- SQL Database – To store user credentials and chat information securely
-- Encryption Techniques – For secure storage of user data
+- **Java** – Core language for the application logic
+- **Swing** – For building GUI interfaces
+- **Socket Programming** – For network communication between server and clients
+- **Multithreading** – To handle multiple clients concurrently
+- **SQL Database** – To store user credentials and chat information securely
+- **Encryption Techniques** – For secure storage of user data
 
 ---
 
