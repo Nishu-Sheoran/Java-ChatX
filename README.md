@@ -7,11 +7,11 @@ A beginner-friendly Java chat project showcasing socket programming and multi-cl
 
 ## ✨ Features:
 
-  ### 📝 User Registration & Login-
+### 📝 User Registration & Login-
 
-     - New clients can register and create an account with a username and password.
-     - Existing users can log in using their credentials.
-     - Users can also change their password for security purposes.
+- New clients can register and create an account with a username and password.
+- Existing users can log in using their credentials.
+- Users can also change their password for security purposes.
 
   ### 💬 Real-Time Chat Between Multiple Users-
 
