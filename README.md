@@ -81,15 +81,21 @@ A beginner-friendly Java chat project showcasing socket programming and multi-cl
 
 <img width="914" height="487" alt="Screenshot 2025-09-26 000948" src="https://github.com/user-attachments/assets/58a06d74-4659-4325-80a0-15184a3459dc" />
 
+
 <img width="852" height="462" alt="Screenshot 2025-08-16 004629" src="https://github.com/user-attachments/assets/dbe68461-be9a-4ad1-8fd3-2290dc7784ad" />
+
 
 <img width="1916" height="996" alt="Screenshot 2025-09-26 001058" src="https://github.com/user-attachments/assets/606252c7-f55d-4e17-ac2d-5a857c331f22" />
 
+
 <img width="980" height="522" alt="Screenshot 2025-09-26 001116" src="https://github.com/user-attachments/assets/fe9491e5-be5e-45f7-b2b7-3d6f54593bcf" />
+
 
 <img width="1883" height="1005" alt="Screenshot 2025-09-26 001254" src="https://github.com/user-attachments/assets/590f08ca-e8d1-407f-9d90-caab3b79795f" />
 
+
 <img width="1904" height="1014" alt="Screenshot 2025-09-26 001443" src="https://github.com/user-attachments/assets/8f51751c-11a7-4723-8dae-d7b8d81f5d15" />
+
 
 ---
 
